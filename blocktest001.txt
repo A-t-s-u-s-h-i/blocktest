@@ -1,0 +1,2 @@
+footballtopic.com##.admax300_250
+footballtopic.com##[href*="a8.net"]
